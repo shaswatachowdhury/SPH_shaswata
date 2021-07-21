@@ -15,8 +15,9 @@ int main()
 	//int *NFL;
 	printf("Hello Hi! \n");
 	printf("Hello Hi Inside Master! \n");
+	printf("Hello Hi After getting fetched from GitHub repo into local repo ! \n");
 	//printf("Changed inside branch! \n");
-	printf("Hello Hi I have entered selfgravity branch ! \n");
+	//printf("Hello Hi I have entered selfgravity branch ! \n");
 	//arr=0;
 	//NFL=(int *)calloc(10,sizeof(int));
 	//printf("size of NFL = %lu \n",sizeof(NFL));
